@@ -13,7 +13,10 @@ Grading Top 25% A : B+ - D ตามเกณฑ์
 | **Total**| =                                      | **100%** |
 
 # Lecture
-# Chapter 1
+Chapter 1
+git add filename.pdf
+git commit -m "https://drive.google.com/file/d/1poa8B1r0hAdAD9Dyo4Ilsp0YX_lPD4ao/view?usp=drivesdk"
+git push origin main
 
 # Chapter 2
 # Chapter 3
