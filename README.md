@@ -12,3 +12,12 @@ Grading Top 25% A : B+ - D ตามเกณฑ์
 | GitHub   | ความสวยงาม                             | 5%     |
 | **Total**| =                                      | **100%** |
 
+# Lecture
+# Chapter 1
+
+# Chapter 2
+# Chapter 3
+# Chapter 6
+# Chapter 8
+# Chapter 9
+# Chapter 10
