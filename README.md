@@ -1,5 +1,6 @@
 # bsc_dpdm24
 SIDS KKU Data Preparation Data Mining
+# นางสาวณัฎฐ์กฤตา ไชยโกฏิ 653020206-9
 # Score
 Grading Top 25% A : B+ - D ตามเกณฑ์
 | Work     | Details                                  | Scores |
